@@ -58,13 +58,7 @@ We welcome your valuable contributions! If you have ideas to improve the tool or
 
 ## License
 
-This project is intended for educational and academic purposes only. All rights reserved © Hassan Al-Rajab 2024.
-
-This software is the property of Hassan Al-Rajab, a third-year Computer Engineering student. No part of this software may be reproduced, distributed, or transmitted in any form or by any means, without the prior written permission of the author and the academic supervisor.
-
-For inquiries about the use of this project, please contact the supervising professor at [University Name].
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Support
 If you encounter any problems or have questions, please open an "issue" on the project's GitHub page.

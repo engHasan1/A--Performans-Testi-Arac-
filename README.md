@@ -32,7 +32,10 @@ The Advanced Network Performance Tool is an innovative application for analyzing
   - plyer
 
 ## Installation Steps
-1. Clone https://github.com/engHasan1/A--Performans-Testi-Arac-.git
+1. Clone
+   ```
+   https://github.com/engHasan1/A--Performans-Testi-Arac-.git
+   ```
 2. Install the required libraries:
    ```
    pip install matplotlib speedtest-cli reportlab openpyxl plyer
